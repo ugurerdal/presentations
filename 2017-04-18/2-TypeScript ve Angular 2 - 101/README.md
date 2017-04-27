@@ -7,7 +7,7 @@ Yararlandigim kaynaklar;
 * https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2
 
 
-** sunumdan ziyade kaynaklarin daha yararli olacagini dusunuyorum
+** sunumdan ziyade kaynaklarin daha yararli olacagini dusunuyorum. sunumu silmisim :(
 
 
 
